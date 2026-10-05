@@ -1,6 +1,6 @@
 # DEMD-01: Demo story
 
-Archived 5 October 2026 from Chamber commit `305a55a`. Superseded: Rivermark is abandoned for the public corpus library, and the product direction changed. The mocks remain on Chamber branch `prototype/demo-mocks`.
+Archived 5 October 2026 from Chamber commit `305a55a`. Superseded: Rivermark is abandoned for the public corpus library, and the product direction changed. The mocks remain at Chamber tag `archive/demo-mocks`.
 
 Design session, 30 September 2026, Andrew Atiya with Claude. Inputs: the
 [demo and corpus handoff](../../../reports/2026-09-30-demo-and-corpus-handoff/README.md),
